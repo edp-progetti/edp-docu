@@ -21,8 +21,8 @@
     "tests"
   ],
   "dependencies": {
-    "edp-cmp1": "edp-progetti/edp-cmp1#^1.0.0",
-    "edp-cmp2": "edp-progetti/edp-cmp2#^1.0.0"
+    "edp-cmp1": "edp-progetti/edp-cmp1",
+    "edp-cmp2": "edp-progetti/edp-cmp2"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0"
