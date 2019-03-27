@@ -1,0 +1,27 @@
+{
+  "name": "edp-cmp3",
+  "version": "1.0.0",
+  "homepage": "https://github.com/edp-progetti/edp-docu/edp-cmp3",
+  "authors": [
+    "EDP Progetti"
+  ],
+  "description": "EDP Component 3",
+  "keywords": [
+    "edp",
+    "progetti",
+    "docu",
+    "element"
+  ],
+  "license": "BSD-3-Clause",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0"
+  },
+  "main": "edp-cmp3.html"
+}

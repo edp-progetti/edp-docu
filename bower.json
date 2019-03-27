@@ -1,0 +1,33 @@
+{
+  "name": "edp-docu",
+  "version": "1.0.0",
+  "homepage": "https://github.com/edp-progetti/edp-docu",
+  "authors": [
+    "EDP Progetti"
+  ],
+  "description": "EDP Documentation",
+  "keywords": [
+    "edp",
+    "progetti",
+    "docu",
+    "element-collection"
+  ],
+  "license": "BSD-3-Clause",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "edp-cmp1": "edp-progetti/edp-docu/edp-cmp1#^1.0.0",
+    "edp-cmp2": "edp-progetti/edp-docu/edp-cmp2#^1.0.0",
+    "edp-cmp3": "edp-progetti/edp-docu/edp-cmp3#^1.0.0",
+    "edp-cmp4": "edp-progetti/edp-docu/edp-cmp4#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0"
+  },
+  "main": "edp-docu.html"
+}
